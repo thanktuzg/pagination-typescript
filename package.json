@@ -1,6 +1,6 @@
 {
   "name": "pagination-typescript",
-  "version": "1.0.4",
+  "version": "0.0.2",
   "description": "pagination-typescript is a typescript paging library",
   "main": "./dist/index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "license": "UNLICENSED",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thanktuzg/pagination-typescript.git"
+    "url": "git+https://github.com/thanktuzg/pagination-typescript.git"
   },
   "keywords": [
     "typescript",
@@ -50,5 +50,9 @@
     "eslint-plugin-vue": "^7.0.0",
     "lint-staged": "^9.5.0",
     "ts-node-dev": "^1.0.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/thanktuzg/pagination-typescript/issues"
+  },
+  "homepage": "https://github.com/thanktuzg/pagination-typescript#readme"
 }
